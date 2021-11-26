@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D1B675&lines=Hello!+I'm+Basi.)](https://git.io/typing-svg)
 
-- 👨‍💻 I'm a computer science student in Portugal
-- 🎩 I'm a professional Branding designer, going into UI/UX
-- 🎓 I’m currently learning Web Development  
+- 👨‍💻 I'm a computer science major in Portugal
+- 🎩 I'm a professional Branding designer
 - ⚡ Fun fact: I love mangos!  
 
 <br/>  
