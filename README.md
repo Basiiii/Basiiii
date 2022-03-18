@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Basi</h1>
 <h3 align="center">A passionate frontend developer and designer</h3>
 
-- 🔭 I’m currently working on **AppAluno**
+- 🔭 I’m currently working on **Schoolit**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-basi.vercel.app/](https://portfolio-basi.vercel.app/)
 
