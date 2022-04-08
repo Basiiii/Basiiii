@@ -16,8 +16,8 @@
   </p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basiiii&show_icons=true&locale=en" alt="basiiii" /></p>
   <a href="https://github.com/basiiii/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiiii&layout=compact)](https://github.com/basiiii/github-readme-stats" />
-</a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiiii&hide=Assembly,CMake,A)](https://github.com/basiiii/github-readme-stats" />
+  </a>
   <h6>I love WALL-E</h6>
   <br>
   <br>
