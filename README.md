@@ -22,12 +22,3 @@
   <br>
   <br>
 </div>
-
-<details>
-<summary>My repo's :)</summary>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Basiiii&repo=Hypnose)](https://github.com/Basiiii/Hypnose)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Basiiii&repo=TCP-Message)](https://github.com/Basiiii/TCP-Message)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Basiiii&repo=ESP32-Cam)](https://github.com/Basiiii/ESP32-Cam)
-
-</details>
