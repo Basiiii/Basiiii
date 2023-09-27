@@ -19,4 +19,4 @@ I am a passionate and detail-oriented branding & UI/UX designer and developer, c
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Basiiii&icon=9&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Basiiii&icon=9&color=12)](https://visitcount.itsvg.in)
