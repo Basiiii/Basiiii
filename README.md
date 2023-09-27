@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-I am a passionate and detail-oriented front-end developer and branding designer, driven by a love for perfection and aesthetics. I am particularly drawn to the art of creating smooth, elegant animations and achieving a perfectly balanced minimalism that is still rich in detail. My dedication and talent have been recognized through three international Behance curator awards for design. I am proud to have won these prestigious accolades, which highlight my expertise and creativity.
-
-Currently completing my Bachelor's in Computer Science.
+I am a passionate and detail-oriented branding & UI/UX designer and developer, currently completing my Bachelor's in Computer Science. I am particularly drawn to the art of creating smooth, elegant animations and achieving a perfectly balanced minimalism that is still rich in detail. My dedication and talent have been recognized through three international Behance curator awards for design. I am proud to have won these prestigious accolades, which highlight my expertise and creativity.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/basi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCvJH7mHSf87eUwpxCEL_3sw) 
