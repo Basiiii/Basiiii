@@ -19,7 +19,13 @@ I am a passionate and detail-oriented branding & UI/UX designer and developer, c
 # 🏆 My Repo's
 
 <a href="https://github.com/Basiiii/TCP-Message">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basiiii&repo=TCP-Message&theme=noctis_minimus" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basiiii&repo=TCP-Message&theme=noctis_minimus" style="margin: 15px;" />
+</a>
+<a href="https://github.com/Basiiii/Euphoria">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basiiii&repo=Euphoria&theme=noctis_minimus" style="margin: 15px;" />
+</a>
+<a href="https://github.com/Basiiii/QR-Reader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basiiii&repo=QR-Reader&theme=noctis_minimus" style="margin: 15px;" />
 </a>
 
 # ✍️ Random Dev Quote
