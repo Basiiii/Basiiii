@@ -12,9 +12,6 @@ I am a passionate and detail-oriented branding & UI/UX designer and developer, c
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Basi&theme=noctis_minimus&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=basiiii&layout=compact&langs_count=8&card_width=320&theme=noctis_minimus" />
-</a>
 
 # 🏆 My Repo's
 
