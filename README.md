@@ -25,8 +25,5 @@ I am a passionate and detail-oriented branding & UI/UX designer and developer, c
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basiiii&repo=QR-Reader&theme=noctis_minimus" style="margin: 15px;" />
 </a>
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Basiiii&icon=9&color=12)](https://visitcount.itsvg.in)
