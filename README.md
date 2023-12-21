@@ -24,6 +24,9 @@ I am a passionate and detail-oriented branding & UI/UX designer and developer, c
 <a href="https://github.com/Basiiii/QR-Reader">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basiiii&repo=QR-Reader&theme=noctis_minimus" style="margin: 15px;" />
 </a>
+<a href="https://github.com/Basiiii/Discord-Arbitration-Goons">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basiiii&repo=Discord-Arbitration-Goons&theme=noctis_minimus" style="margin: 15px;" />
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Basiiii&icon=9&color=12)](https://visitcount.itsvg.in)
