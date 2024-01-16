@@ -13,5 +13,4 @@ I'm a devoted branding and UI/UX designer/developer currently completing my Bach
   <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Basi&theme=noctis_minimus&layout=compact" />
 </a>
 
----
 [![](https://visitcount.itsvg.in/api?id=Basiiii&icon=9&color=12)](https://visitcount.itsvg.in)
