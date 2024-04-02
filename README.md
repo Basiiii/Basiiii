@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-My name is Enrique Rodrigues, aka Basi, I'm a developer and designer who's passionate about creating polished, visually appealing experiences. I focus on smooth animations and achieving a professional yet unique and clean aesthetic. My work has earned me four international Behance curator awards for design, highlighting my skills and creativity.
+My name is Enrique Rodrigues, aka Basi, I'm a developer and designer who's passionate about creating polished, visually appealing experiences. I focus on smooth animations and achieving a professional yet unique and clean aesthetic. 
 
-If you'd like to collaborate on a project please contact me!
+My work has earned me four international Behance curator awards for design, highlighting my skills and creativity. You can see these on my personal website or on my Behance page, links are available in the socials section underneath.
 
 # 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/basi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCvJH7mHSf87eUwpxCEL_3sw) [![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABfCAMAAAC5kuvHAAAAQlBMVEUAAABvb2+BgoIwMDC2trfu7++UlJTh4eEeHh9AQEHLy8umpqdjY2PV1dVSUlIAAAAAAAD///8REREHBwf39/f8/PzUadcCAAAAEHRSTlPx/f7+/v7+/v7+/v3+/v7jyAvKPAAAAatJREFUaN7t1916gyAMBmARBKJoC8H7v9XZpz8iWmyjPVqyMw/eTQxfsqq6/rQq9tlnn3322WefffbZJ/loJTgx1QAWz/ZRCtU30d9qjEbVgCf6CF3jl9WoAc/yrc71W0Ulz/Gh9dtlHJ7gg/HvKtZ42C/w06fe/QV7vux9qaI75gfly2XgkF/7vVLhgA/Nru8F3cfsdGJjjHnc4tcn7i3ZHxIqttqBtPaWQrptPn2Bko9dcswQrvdexOknQHKl20D05Wx0K8O93i0ORF/MaSZL30bT/ETYOoK5dftA8u2cDGodAzj7EUg+xOLfrz/qoILvkhTY6PHkbmiSn2TDuG6RkASfQoqfHMCoi9FRuAEFP7ldfh0CafIZe9QfXb6smFN939q3h3eK7zVup8P26X3ZP/modcu5QOofHMaFH/WzS1BkY6em5UO294zqngOhjtkMlrR8GzLnEcTS5EsKdb4sz6F5xgwsdpZRI3n+gorzQgvJQjq/ghFI3x8wDLqdZnrbCblgpOim5/303B7dP8M008MXz/n/O/bZZ5999tlnn3322f+3/qX6af0ByD8k34Q/SW0AAAAASUVORK5CYII=)](https://basi.is-a.dev/)
