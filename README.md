@@ -24,7 +24,6 @@
   />
 </a>
 
-
 Full-Stack Developer & Designer crafting modern web and mobile experiences.  
 
 - 🏆 6x International Design Award winner.
