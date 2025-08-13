@@ -16,12 +16,22 @@
   />
 </a>
 
+<a href="https://www.paypal.me/basigraphics">
+  <img
+    align="right"
+    alt="Donate"
+    src="https://img.shields.io/badge/Donate-PayPal-003087?logo=paypal&logoColor=white"
+  />
+</a>
+
+
 Full-Stack Developer & Designer crafting modern web and mobile experiences.  
 
 - 🏆 6x International Design Award winner.
 - 🥭 Mango enthusiast (I love mangos)  · 🧠 INTJ-T.
 - 📧 Email: `hello.basi@proton.me` && 💼 [LinkedIn](https://matrix.to/#/#zirnc-general:matrix.org](https://www.linkedin.com/in/enrique-rodrigues-a54722363/)) .
 - ⚡ Always exploring new frameworks, design trends, and ways to innovate.
+- 💖 Support my work: [Donate via PayPal](https://www.paypal.me/basigraphics)
 
 Passionate about blending clean design with efficient code to make ideas come alive.
 
