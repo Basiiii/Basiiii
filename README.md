@@ -4,7 +4,7 @@
   <img 
     align="right" 
     alt="Behance" 
-    src="https://img.shields.io/badge/Behance%20Views-100k+-1769ff?logo=behance&logoColor=white"
+    src="https://img.shields.io/badge/Behance%20Views-120k+-1769ff?logo=behance&logoColor=white"
   />
 </a>
 
