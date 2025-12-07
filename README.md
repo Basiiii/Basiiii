@@ -34,7 +34,7 @@ Full-Stack Developer & Designer crafting modern web and mobile experiences.
 
 Passionate about blending clean design with efficient code to make ideas come alive.
 
-<details open>
+<!-- <details open>
   <summary>My GitHub Stats</summary>
 
   <table style="border-collapse: collapse; width: 100%;">
@@ -52,6 +52,6 @@ Passionate about blending clean design with efficient code to make ideas come al
     </tr>
   </table>
 
-</details>
+</details> -->
 
 <sub style="color:#ffb84d; font-size:2px;">// TODO: buy mangoes 🥭</sub>
