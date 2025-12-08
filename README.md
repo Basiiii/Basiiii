@@ -29,10 +29,10 @@
 Full-Stack Developer & Designer crafting modern web and mobile experiences.  
 
 - 🏆 6x International Design Award winner.
-- 🥭 Mango enthusiast (I love mangos)  · 🧠 INTJ-T.
-- 📧 Email: `hello.basi@proton.me` && 💼 [LinkedIn](https://www.linkedin.com/in/enrique-rodrigues-basi/) .
-- ⚡ Always exploring new frameworks, design trends, and ways to innovate.
-- 💖 Support my work: [Donate via PayPal](https://www.paypal.me/basigraphics)
+- 🥭 Mango lover · 🏎️ Car enthusiast · 🧠 INTJ-T.
+- 📧 Email: `hello.basi@proton.me` || 💼 [LinkedIn↗](https://www.linkedin.com/in/enrique-rodrigues-basi/).
+- 🎨 Exploring design trends && 💻 Low-level tinkering
+- 💖 Support my work through [PayPal↗](https://www.paypal.me/basigraphics).
 
 Passionate about blending clean design with efficient code to make ideas come alive.
 
