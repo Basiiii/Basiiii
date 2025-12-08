@@ -1,3 +1,5 @@
+<img src="https://basi.is-a.dev/images/aboutme.webp"/>
+
 ## Hello, I'm Basi!
 
 <a href="https://www.behance.net/basi">
