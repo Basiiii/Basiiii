@@ -36,24 +36,11 @@ Full-Stack Developer & Designer crafting modern web and mobile experiences.
 
 Passionate about blending clean design with efficient code to make ideas come alive.
 
-<!-- <details open>
-  <summary>My GitHub Stats</summary>
+<details>
+  <summary>The story behind Basi</summary>
 
-  <table style="border-collapse: collapse; width: 100%;">
-    <tr>
-      <td style="border: none; width: 50%; padding-right: 5px;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Basi&theme=dark&title_color=ffb84d&icon_color=ffb84d&ring_color=ffb84d&text_color=c4c4c4&langs_count=8&hide=YAML,Other,Text" width="100%" />
-        </a>
-      </td>
-      <td style="border: none; width: 50%; padding-left: 5px;">
-        <a href="https://github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=basiiii&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&text_color=c4c4c4&title_color=ffb84d&icon_color=ffb84d&ring_color=ffb84d" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  My name, **Basi**, comes from the oldest giant panda ever recorded, who lived in China until 37 years old. Her Chinese name 巴斯 (Bā sī) became famous for symbolizing longevity and resilience. The name reflects how I approach design and software: creating quality work that lasts, not just chasing trends. Learn more about her on [Wikipedia](https://en.wikipedia.org/wiki/Basi_(giant_panda)).
 
-</details> -->
+</details>
 
 <sub style="color:#ffb84d; font-size:2px;">// TODO: buy mangoes 🥭</sub>
