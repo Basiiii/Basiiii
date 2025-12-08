@@ -28,7 +28,7 @@
 
 Full-Stack Developer & Designer crafting modern web and mobile experiences.  
 
-- 🏆 6x International Design Award winner.
+- 🏆 International design award winner.
 - 🥭 Mango lover · 🏎️ Car enthusiast · 🧠 INTJ-T.
 - 📧 Email: `hello.basi@proton.me` || 💼 [LinkedIn↗](https://www.linkedin.com/in/enrique-rodrigues-basi/).
 - 🎨 Exploring design trends && 💻 Low-level tinkering
