@@ -6,7 +6,7 @@
   <img 
     align="right" 
     alt="Behance" 
-    src="https://img.shields.io/badge/Behance%20Views-120k+-1769ff?logo=behance&logoColor=white"
+    src="https://img.shields.io/badge/Behance-120k+-1769ff?logo=behance&logoColor=white"
   />
 </a>
 
@@ -18,6 +18,8 @@
   />
 </a>
 
+Full-Stack Developer & Designer crafting modern web and mobile experiences.  
+
 <a href="https://www.paypal.me/basigraphics">
   <img
     align="right"
@@ -26,7 +28,13 @@
   />
 </a>
 
-Full-Stack Developer & Designer crafting modern web and mobile experiences.  
+<a href="https://ko-fi.com/basiiii">
+  <img
+    align="right"
+    alt="Ko-fi"
+    src="https://shields.io/badge/Donate-ko--fi-ff5f5f?logo=ko-fi&logoColor=white"
+  />
+</a>
 
 - 🏆 Multi-Award winning designer.
 - 🥭 Mango lover · 🏎️ Car enthusiast · 🧠 INTJ-T.
