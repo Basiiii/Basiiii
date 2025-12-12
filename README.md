@@ -18,8 +18,6 @@
   />
 </a>
 
-Full-Stack Developer & Designer crafting modern web and mobile experiences.  
-
 <a href="https://www.paypal.me/basigraphics">
   <img
     align="right"
@@ -35,6 +33,8 @@ Full-Stack Developer & Designer crafting modern web and mobile experiences.
     src="https://shields.io/badge/Donate-ko--fi-ff5f5f?logo=ko-fi&logoColor=white"
   />
 </a>
+
+Full-Stack Developer & Designer crafting modern web and mobile experiences.  
 
 - 🏆 Multi-Award winning designer.
 - 🥭 Mango lover · 🏎️ Car enthusiast · 🧠 INTJ-T.
