@@ -10,6 +10,7 @@
   />
 </a>
 
+<!--
 <a href="https://basi.is-a.dev/">
   <img 
     align="right" 
@@ -17,6 +18,7 @@
     src="https://img.shields.io/badge/Portfolio-Basi-ffb84d?labelColor=2a2a2a&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8ZGRlISEj4+PgGBgbZ2dk6OjqYmJiAgIDS0tIoKCjx8fFYWFiGhoaioqLo6OgODg5+fn6vr6/CwsJ5eXm6urp3F0eZAAAAEHRSTlMA3TfDGYv865jzAq4qbUJu94QAwgAAAR9JREFUOMuFU9uWgyAMhHq/tUREXa22pd39/0/caCVirYd5kROTmSEkjBmk+SXjiRAJz4o8ZTucYh6KBSGPTx+//SASG0SBvyn3xA6eRXLm4gv4meq//seMhcP3xAG8t49AHCKYBaLjhAhF0tgKlM0wyNIKxCnLV4elriuAqh7XFJ6zgvpXPmHBH2WEBcvMWbVAuCkTzRgpyCtA1+qftkMZSRosMUck6PpZ6oUUJpowcoCFz/fxBlCTC0ro78jwmM0gw7WhBCPRoIVqMGbIREImJwaosbBBLbj3ZJKuqbFJ0CoxTs0aFV2TGqWk1hJNPOSvlmptVG4Pg/r4Tq3ePNYO+FjO53YPjHvknEPrHnv34rhXz7288/oXZv0v1vr/AyrzNGz4fEIQAAAAAElFTkSuQmCC" 
   />
 </a>
+-->
 
 <a href="https://www.paypal.me/basigraphics">
   <img
@@ -39,10 +41,10 @@ Full-Stack Developer & Designer crafting modern web and mobile experiences.
 - 🏆 Multi-Award winning designer.
 - 🥭 Mango lover · 🏎️ Car enthusiast · 🧠 INTJ-T.
 - 📧 Email: `hello.basi@proton.me` || 💼 [LinkedIn↗](https://www.linkedin.com/in/enrique-rodrigues-basi/).
-- 🎨 Exploring design trends && 💻 Low-level tinkering.
-- 💖 Support my work through [PayPal↗](https://www.paypal.me/basigraphics).
+- 💖 Support my work through [PayPal↗](https://www.paypal.me/basigraphics) or [ko-fi↗](https://ko-fi.com/basiiii).
+- 🗂️ [Portfolio↗](https://basi.is-a.dev/) featuring selected work and recent projects.
 
-Passionate about blending clean design with efficient code to make ideas come alive.
+Blending clean design with efficient code to make ideas come alive.
 
 <details>
   <summary>The story behind Basi</summary>
